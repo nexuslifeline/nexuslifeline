@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Chris!  
+# 👋 Hi, I'm Paul!  
 🚀 Full-Stack Developer | Passionate about building scalable web apps  
 
 ## 🛠 Tech Stack:
