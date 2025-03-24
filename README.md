@@ -4,8 +4,8 @@
 ## 🛠 Tech Stack:
 - **Frontend:** Next.js, React, Vue.js, Nuxt.js, TailwindCSS  
 - **Backend:** Laravel (PHP), Django (Python), Quartz (Python)  
-- **Databases:** MySQL, PostgreSQL, Firebase  
-- **Other:** Electron, Git, Figma
+- **Databases:** MySQL, PostgreSQL, Firestore, MongoDB  
+- **Other:** Electron, Git, Figma, AWS, GCP, Firebase, Supabase
 
 ## 📂 Projects:
 - **[AnimatedIcons](https://animatedicons.co/)** – A web app selling animated icons. Users can download GIF, PNG, and JPG formats or embed them using an icon script.  
